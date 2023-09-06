@@ -1,7 +1,7 @@
 # Lending Club Case study
 > The aim of the project is to predict loan-defaulter using existing data.
 > Major lending companies suffer a loss failing to spot a loan-defaulter .
-> This project take you through step by tsep data-driven decisions to predict the high risk applicants who are more likely to become a defaulter
+> This project take you through step by step data-driven decisions to predict the high risk applicants who are more likely to become a defaulter
 
 ### Step 1 : Understanding our Data
 ### Step 2 : Data Cleaning
